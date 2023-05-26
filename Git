@@ -1,10 +1,21 @@
-VCS(Version Control System : 버전 관리 시스템)
-RCS(Revision Control System : 변경 관리 시스템)
-장점 :
+
+- 버전관리 시스템들의 장점 :
   1. 파일을 이전 상태로 되돌릴 수 있고
   2. 프로젝트를 통째로 이전상태로 되돌릴 수 있고
   3. 시간에 따라 수정내용을 비교해 볼 수 있고
   4. 누가 문제를 일으켰는지도 추적 가능
   5. 누가 언제 만들어낸 이슈인지 알 수 있다.
 
+- 단점 : 중앙 서버에 문제가 발생하면 협업할 수 없고, 백업 할 방법도 없다.
   
+
+VCS(Version Control System : 버전 관리 시스템) - 이미지나 레이아웃의 버전(변경 이력 혹은 수정 내용)을 관리
+RCS(Revision Control System : 변경 관리 시스템)
+CVCS(Central Version Control System:중앙집중식 버전 관리 시스템) - CVS, Subversion, Perforce
+DVCS(Distributed Version Control System : 분산 버전 관리 시스템) - Git, Mecurial, Bazaar, Darcs
+
+Git은 동시다발적인 브랜치에도 끄떡없는 슈퍼 울트라 브랜칭 시스템이다
+
+
+상위 항목 : 94efb26d28
+
