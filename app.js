@@ -19,9 +19,5 @@ SELECT * FROM A
            ON A.key = B.key
         WHERE B.key IS null;
 
-
-        
-
-
-           
+       
 
